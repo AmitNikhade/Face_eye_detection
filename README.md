@@ -1,2 +1,1 @@
-# Face_eye_detection
-Haarcascade Opencv face and eye detection
+face and eyes detection using OpenCV
